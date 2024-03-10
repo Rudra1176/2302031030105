@@ -1,0 +1,332 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144.6rem;
+}.desktop-4-7bi {
+  box-sizing: border-box;
+  position: relative;
+  flex-direction: column;
+  padding-top: 3.4rem;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  background-color: #ffffff;
+
+  .group-6-EgL {
+    margin: 0rem 2.2rem 3.311rem 3.4rem;
+    width: calc(100% - 5.6rem);
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+
+    .historicalt-4-y88 {
+      height: 15rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-top: 0rem;
+      width: 15rem;
+    }
+    .group-1-i5i {
+      flex-shrink: 0;
+      display: flex;
+      align-items: flex-end;
+
+      .home-Gd2 {
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.4rem;
+        font-size: 4rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #000000;
+      }
+      .topics-QDS {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 2.2rem 0rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+      }
+      .news-events-izp {
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 2.8rem 0.1rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+        line-height: 2.5775;
+      }
+      .about-us-rLL {
+        margin: 0rem 3.1rem 0.1rem 0rem;
+        font-size: 4rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .profile1-2-ZkY {
+        margin-bottom: 1.6905rem;
+        width: 13.3rem;
+        height: 12.8095rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .sddefault-1-6Eg {
+    vertical-align: top;
+    flex-shrink: 0;
+    margin: 0rem 0rem 2.049rem 0.205rem;
+    width: 138.0317rem;
+    height: 107.8401rem;
+    object-fit: cover;
+  }
+  .auto-group-kfuy-oun {
+    margin: 0rem 6.1rem 4.441rem 4.1rem;
+    width: calc(100% - 10.2rem);
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+
+    .group-2-Y6g {
+      margin: 0.996rem 3.5rem 0rem 0rem;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .a-jewell-in-the-adams-building-jewell-mazique-mk8 {
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        flex-shrink: 0;
+        margin-bottom: 9.1022rem;
+        max-width: 71.1rem;
+      }
+      .february-26-2024-posted-by-ellen-terrell-3he {
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        flex-shrink: 0;
+        max-width: 43.8rem;
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 2.5775;
+        color: #000000;
+      }
+    }
+    .jewell-in-a-cap-1-MiL {
+      vertical-align: top;
+      border-radius: 11.1rem;
+      flex-shrink: 0;
+      width: 59.8rem;
+      height: 57.4591rem;
+      object-fit: cover;
+    }
+  }
+  .auto-group-9z48-5uE {
+    margin: 0rem 2.023rem 3.228rem 4rem;
+    width: calc(100% - 6.0227rem);
+    display: flex;
+    align-items: flex-start;
+    flex-shrink: 0;
+
+    .gloriahollisterwcs-247x314-1-pM2 {
+      margin-right: 6.5968rem;
+      width: 64.0032rem;
+      height: 69.0673rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .mailmen-451x314-1-kVa {
+      height: 69.0715rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+      width: 67.9773rem;
+    }
+  }
+  .auto-group-wgpe-63e {
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 4.2rem 0.8rem 8.4rem;
+    width: calc(100% - 12.6rem);
+    display: flex;
+
+    .diving-in-the-deep-with-gloria-hollister-De4 {
+      font-size: 2.4rem;
+      font-weight: 700;
+      line-height: 2.5775;
+      color: #000000;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0rem 17.9rem 0.1rem 0rem;
+    }
+    .visions-of-packages-danced-in-their-heads-8FE {
+      line-height: 2.5775;
+      color: #000000;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-top: 0.1rem;
+      font-size: 2.4rem;
+      font-weight: 700;
+    }
+  }
+  .auto-group-soja-qQY {
+    flex-shrink: 0;
+    margin-right: 0.0109rem;
+    width: 146.7891rem;
+    height: 40.5999rem;
+    position: relative;
+
+    .january-2-2024-posted-by-jennifer-harbster-mJC {
+      font-size: 2.4rem;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      width: 39.2rem;
+      position: absolute;
+      top: 0.2rem;
+      font-weight: 700;
+      line-height: 2.5775;
+      color: #000000;
+      height: 18.6rem;
+      left: 11.2rem;
+    }
+    .december-19-2023-posted-by-ellen-terrell-3mW {
+      width: 32.2rem;
+      height: 18.6rem;
+      position: absolute;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      left: 89.5rem;
+      top: 0;
+      font-size: 2.4rem;
+      font-weight: 700;
+      line-height: 2.5775;
+      color: #000000;
+    }
+    .rectangle-12-MGQ {
+      background-color: #013650;
+      width: 146.7891rem;
+      height: 26.8999rem;
+      position: absolute;
+      left: 0;
+      top: 13.7rem;
+    }
+    .group-5-tGL {
+      display: flex;
+      align-items: center;
+      width: 127.2871rem;
+      height: 19rem;
+      position: absolute;
+      left: 11.2rem;
+      top: 18.3rem;
+
+      .group-4-D3i {
+        margin-right: 86.4rem;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .contact-us-xmz {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.3rem;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          color: #ffffff;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+        }
+        .privacy-policy-W2p {
+          margin-bottom: 0.1rem;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          color: #ffffff;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .copyright-EjW {
+          color: #ffffff;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 2.5775;
+        }
+      }
+      .group-3-P6c {
+        flex-shrink: 0;
+        margin: 1.3rem 0rem 1.786rem 0rem;
+        width: 21.2871rem;
+        height: calc(100% - 3.0863rem);
+
+        .follow-on-iPn {
+          font-size: 3.2rem;
+          font-weight: 700;
+          line-height: 2.5775;
+          color: #ffffff;
+          font-family: Inknut Antiqua, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 2.3442rem;
+        }
+        .auto-group-al6p-4Te {
+          width: calc(100% - 0rem);
+          display: flex;
+          column-gap: 3.041rem;
+          align-items: center;
+          margin-left: 0rem;
+
+          .insta-1-17z {
+            width: 5.0684rem;
+            height: 5.2694rem;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .fac-1-k5a {
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 5.0684rem;
+            height: 5.2694rem;
+          }
+          .icons8-twitter-48-1-1-gzp {
+            height: 5.2694rem;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+            width: 5.0684rem;
+          }
+        }
+      }
+    }
+  }
+}

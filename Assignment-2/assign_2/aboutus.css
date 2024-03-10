@@ -1,0 +1,121 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.9rem;
+}.desktop-8-MX2 {
+  padding: 5.5rem 5.1rem 9.8rem 5.1rem;
+  width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+
+  .group-9-Ube {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    margin: 0rem 0rem 5.396rem 0rem;
+    width: calc(100% - 0rem);
+
+    .historicalt-4-odv {
+      margin: 0rem 18.2rem 0.285rem 0rem;
+      width: 9.4rem;
+      height: 9rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .home-KsA {
+      margin: 1.504rem 5.413rem 0rem 0rem;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 2.5775;
+      color: #b8a8a8;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .topics-r6Q {
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 2.5775;
+      color: #b8a8a8;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.501rem 5.387rem 0rem 0rem;
+    }
+    .news-events-Asn {
+      line-height: 2.5775;
+      color: #b8a8a8;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.082rem 5.4rem 0rem 0rem;
+      font-size: 3rem;
+      font-weight: 400;
+    }
+    .about-us-V9N {
+      line-height: 2.5775;
+      color: #000000;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.096rem 5.7rem 0rem 0rem;
+      font-size: 3rem;
+      font-weight: 700;
+    }
+    .profile1-2-ovk {
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin-bottom: 0.3036rem;
+      width: 9.4rem;
+      height: 9rem;
+    }
+  }
+  .about-us-vkU {
+    margin-left: 5.5rem;
+    font-size: 6.4rem;
+    font-weight: 700;
+    line-height: 2.5775;
+    color: #000000;
+    font-family: Inknut Antiqua, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .welcome {
+    flex-shrink: 0;
+    text-align: center;
+    font-weight: 400;
+    color: #000000;
+    font-family: Inknut Antiqua, 'Source Sans Pro';
+    margin: 0rem 0rem 3rem 1.5rem;
+    max-width: 131.5rem;
+    font-size: 2.4rem;
+    line-height: 2.5775;
+  }
+  .rectangle-18-6YU {
+    margin-left: 2.2rem;
+    width: 131.5rem;
+    height: 40.5rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+}

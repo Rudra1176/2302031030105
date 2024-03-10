@@ -1,0 +1,374 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.9rem;
+}.desktop-3-Fi4 {
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  width: 100%;
+  height: 102.4rem;
+
+  .frame-3-bmv {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    width: 131.2rem;
+    height: 88.1rem;
+    position: absolute;
+    left: 6.4rem;
+    top: 11.4rem;
+
+    .auto-group-xxje-vJQ {
+      flex-shrink: 0;
+      margin: 8.7rem 0rem 25.2rem 0rem;
+      height: calc(100% - 33.9rem);
+      display: flex;
+      flex-direction: column;
+
+      .profile1-1-qAU {
+        margin: 0rem 0rem 8.3rem 7rem;
+        width: 16.2rem;
+        height: 16.2rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .view-my-profle-Z6U {
+        margin-bottom: 0.1rem;
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #000000;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .change-email-ssr {
+        font-size: 3.6rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.7rem;
+      }
+      .change-password-pYC {
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3.6rem;
+      }
+    }
+    .auto-group-ohfi-mCY {
+      width: 96.4rem;
+      height: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      .my-profile-uJk {
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #0f0f0f;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 0rem 3.2rem 21.7rem;
+        font-size: 4.8rem;
+      }
+      .group-14-EM2 {
+        align-items: flex-end;
+        display: flex;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('REPLACE_IMAGE:78f3ab436d67948cfa2e67411fe5368210bda851');
+        box-sizing: border-box;
+        width: 100%;
+        border-radius: 5.3rem;
+        flex-shrink: 0;
+        padding: 0.6rem 2.2rem 19rem 43.8rem;
+        flex-direction: column;
+
+        .auto-group-cjtq-9yn {
+          width: calc(100% - 0rem);
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 0rem 0.7rem 0rem;
+
+          .name-HaC {
+            line-height: 2.5775;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 3.7rem;
+            font-size: 3.2rem;
+            font-weight: 400;
+          }
+          .line-1-dPA {
+            margin-top: 2.8rem;
+            width: 36.5rem;
+            height: 0.1rem;
+            background-color: #110000;
+            flex-shrink: 0;
+          }
+        }
+        .auto-group-iflx-Z1v {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0rem 0rem 0.2rem 0rem;
+          width: calc(100% - 0rem);
+
+          .phone-number-GBE {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 1.6rem;
+            font-size: 3.2rem;
+            font-weight: 400;
+            line-height: 2.5775;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+          }
+          .line-2-AXW {
+            background-color: #000000;
+            flex-shrink: 0;
+            margin-top: 2.8rem;
+            width: 22.3rem;
+            height: 0.1rem;
+          }
+        }
+        .auto-group-rwug-sRv {
+          margin-bottom: 9.7rem;
+          width: 100%;
+          height: 16.3rem;
+          position: relative;
+          flex-shrink: 0;
+
+          .email-1Y8 {
+            height: 8.3rem;
+            position: absolute;
+            left: 0.1rem;
+            top: 0;
+            font-size: 3.2rem;
+            font-weight: 400;
+            white-space: nowrap;
+            width: 10.4rem;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            line-height: 2.5775;
+          }
+          .password-ihS {
+            font-size: 3.2rem;
+            font-weight: 400;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            height: 8.3rem;
+            position: absolute;
+            top: 8rem;
+            color: #000000;
+            white-space: nowrap;
+            width: 16.8rem;
+            left: 0;
+            line-height: 2.5775;
+          }
+          .line-3-dpQ {
+            width: 35.2rem;
+            height: 0.1rem;
+            position: absolute;
+            left: 15.2rem;
+            top: 6.1rem;
+            background-color: #000000;
+          }
+          .line-4-mQp {
+            width: 30.6rem;
+            height: 0.1rem;
+            position: absolute;
+            left: 19.8rem;
+            top: 14.5rem;
+            background-color: #000000;
+          }
+        }
+        .auto-group-s556-Vrc {
+          margin: 0rem 5.6rem 0rem 14.4rem;
+          width: calc(100% - 20rem);
+          display: flex;
+          align-items: flex-start;
+          flex-shrink: 0;
+
+          .f7cf289d18863f4c8e5b783338d12846-1-S1A {
+            margin-right: 1.5rem;
+            width: 9.5rem;
+            height: 8.7rem;
+            object-fit: cover;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .edit-hear-Mtp {
+            margin-top: 0.1rem;
+            font-size: 3.6rem;
+            font-weight: 400;
+            line-height: 2.5775;
+            color: #000000;
+            font-family: Inknut Antiqua, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+  }
+  .group-7-Ehi {
+    height: 9.3036rem;
+    position: absolute;
+    left: 3.5rem;
+    top: 3.9905rem;
+    width: 133.7rem;
+
+    .historicalt-4-y9W {
+      position: absolute;
+      left: 0;
+      top: 0.0095rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 9.4rem;
+      height: 9rem;
+    }
+    .home-rj6 {
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      width: 11.4rem;
+      height: 7.8rem;
+      position: absolute;
+      left: 27.6rem;
+      top: 1.5036rem;
+      line-height: 2.5775;
+      color: #000000;
+      font-size: 3rem;
+      font-weight: 400;
+      white-space: nowrap;
+    }
+    .topics-ZtQ {
+      width: 13.5rem;
+      height: 7.8rem;
+      top: 1.0025rem;
+      font-size: 3rem;
+      line-height: 2.5775;
+      color: #b8a8a8;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+      position: absolute;
+      left: 44.413rem;
+      font-weight: 400;
+      white-space: nowrap;
+    }
+    .news-events-Tyn {
+      left: 63.3rem;
+      top: 0.7929rem;
+      white-space: nowrap;
+      width: 31rem;
+      height: 7.8rem;
+      position: absolute;
+      font-size: 3rem;
+      font-weight: 400;
+      line-height: 2.5775;
+      color: #b8a8a8;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+    }
+    .about-us-AtC {
+      width: 18.6rem;
+      position: absolute;
+      left: 99.4rem;
+      top: 0.8095rem;
+      font-weight: 400;
+      color: #b8a8a8;
+      white-space: nowrap;
+      height: 7.8rem;
+      font-size: 3rem;
+      line-height: 2.5775;
+      font-family: Inknut Antiqua, 'Source Sans Pro';
+    }
+    .profile1-2-Hhv {
+      top: 0;
+      object-fit: cover;
+      vertical-align: top;
+      width: 9.4rem;
+      height: 9rem;
+      position: absolute;
+      left: 124.3rem;
+    }
+    .group-8-dFz {
+      position: absolute;
+      left: 0;
+      top: 0;
+      display: flex;
+      align-items: center;
+      width: 133.7rem;
+      height: 9.3036rem;
+
+      .historicalt-4-NDa {
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin: 0rem 18.2rem 0.285rem 0rem;
+        width: 9.4rem;
+        height: 9rem;
+      }
+      .home-tBv {
+        flex-shrink: 0;
+        margin: 1.504rem 5.413rem 0rem 0rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .topics-Qg4 {
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.501rem 5.387rem 0rem 0rem;
+      }
+      .news-events-Y1a {
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0.082rem 30rem 0rem 0rem;
+        font-size: 3rem;
+        font-weight: 400;
+        line-height: 2.5775;
+        color: #b8a8a8;
+        font-family: Inknut Antiqua, 'Source Sans Pro';
+      }
+      .profile1-2-51W {
+        margin-bottom: 0.3036rem;
+        width: 9.4rem;
+        height: 9rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+}
